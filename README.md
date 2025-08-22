@@ -34,7 +34,7 @@ const natasha = {
 
 ### Languages
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=cpp,js,html,css,python" />
+  <img src="https://skillicons.dev/icons?i=cpp,js,html,css" />
 </div>
 
 ### Frameworks & Libraries
