@@ -8,7 +8,6 @@
   
   **Computer Programming and Analysis Student @ Seneca Polytechnic** 🎓
   
-  *Building interfaces that are both beautiful and user-friendly* ✨
   
 </div>
 
@@ -20,7 +19,7 @@
 const natasha = {
     location: "Toronto, Canada",
     education: "Computer Programming & Analysis",
-    currentFocus: ["Object-Oriented Programming", "TypeScript", "Python", "Java", "Swift", "Kotlin"],
+    sheLikes: "Developing and engineering interfaces that are seamlessly intuitive and highly user-centric.",
     interests: ["Software Development", "UI/UX Design", "Full-Stack Development", "Photography"],
     hobbies: ["Volleyball 🏐", "Studio Ghibli films 💗", "Matcha runs ☕", "Gym 💪"],
 };
@@ -28,9 +27,7 @@ const natasha = {
 
 ## 🔭 Current Journey
 
-- 🌱 **Learning:** Object-Oriented Programming, React, and Python
 - 🚧 **Building:** Projects demonstrating various implemented technologies (stay tuned!😊)
-- 📸 **Exploring:** Photography and visual storytelling
 - 🎯 **Goal:** Creating seamless user experiences through code
 
 ## 🛠️ Tech Stack & Tools
