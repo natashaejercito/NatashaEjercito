@@ -44,7 +44,7 @@ const natasha = {
 
 ### Design & Development Tools
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=figma,git,aws,mongodb, postgresql, vscode" />
+  <img src="https://skillicons.dev/icons?i=figma,git,aws,mongodb, vscode" />
 </div>
 
 ## 🌟 When I'm Not Coding
