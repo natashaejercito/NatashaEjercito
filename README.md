@@ -20,8 +20,8 @@ const natasha = {
     location: "Toronto, Canada",
     education: "Computer Programming & Analysis",
     sheLikes: "Developing and engineering interfaces that are seamlessly intuitive and highly user-centric.",
-    interests: ["Software Development", "UI/UX Design", "Full-Stack Development", "Photography"],
-    hobbies: ["Volleyball 🏐", "Studio Ghibli films 💗", "Matcha runs ☕", "Gym 💪"],
+    interests: ["Software Development", "Arts/Designs", "Blogs about Tech, Fashion, and Music", "Photography"],
+    hobbies: ["Volleyball 🏐", "watching films/movies 💗", "Cafe hopping 🍵", "Gym 💪"],
 };
 ```
 
@@ -44,25 +44,14 @@ const natasha = {
 
 ### Design & Development Tools
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=figma,git,aws,mongodb,vscode" />
-</div>
-
-## 📊 GitHub Analytics
-
-<div align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=natashaejercito&show_icons=true&theme=default&title_color=8b5cf6&icon_color=8b5cf6&text_color=333&bg_color=ffffff&hide_border=true" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=natashaejercito&theme=default&ring=8b5cf6&fire=8b5cf6&currStreakLabel=8b5cf6&sideNums=333&dates=333&sideLabels=333&background=ffffff&hide_border=true" />
-</div>
-
-<div align="center">
-  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=natashaejercito&layout=compact&theme=default&title_color=8b5cf6&text_color=333&bg_color=ffffff&hide_border=true" />
+  <img src="https://skillicons.dev/icons?i=figma,git,aws,mongodb, postgresql, vscode" />
 </div>
 
 ## 🌟 When I'm Not Coding
 
 <div align="center">
   
-  📝 Interested in creating my blogs | 📸 Capturing moments | ☕ Going on matcha runs
+  📝 Interested in building personal projects | 📸 Capturing moments | ☕ Cafe hopping to find best matcha in town |
   
   🏐 Playing volleyball | 💪 Hitting the gym 🧗‍♀️| 👨‍👩‍👧‍👦 Quality time with family & friends
   
@@ -83,7 +72,7 @@ const natasha = {
 
 <div align="center">
   
-  **💬 Ask me about:** Tech, UI/UX Design, Student Life, or anything Studio Ghibli! 
+  **💬 Ask me about:** Tech, Student Life, or anything Studio Ghibli film! 
   
   **💅 Her opinion:** I believe the best code is like a good film - it tells a story effortlessly
   
