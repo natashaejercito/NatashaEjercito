@@ -4,7 +4,7 @@
   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3picW9pZ2h4dHRqOWxrNGY1Yml1dW9jb2lqdmI4dHprY290a3NpbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oKIPnAiaMCws8nOsE/giphy.gif" width="200"/>
 <!-- </div>
 
-<div align="center"> --> -->
+<div align="center"> --> 
   
   **Computer Programming and Analysis Student @ Seneca Polytechnic** 🎓
   
