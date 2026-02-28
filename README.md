@@ -25,11 +25,6 @@ const natasha = {
 };
 ```
 
-## 🔭 Current Journey
-
-- 🚧 **Building:** Projects demonstrating various implemented technologies (stay tuned!😊)
-- 🎯 **Goal:** To build useful applications
-
 ## 🛠️ Tech Stack & Tools
 
 ### Languages
@@ -46,15 +41,7 @@ const natasha = {
 <div align="left">
   <img src="https://skillicons.dev/icons?i=figma,git,mongodb,postgresql,vscode" />
 </div>
-
-## 🌟 When I'm Not Coding
-
-<div align="center">
-  
-  📝 Interested in building personal projects | 📸 Capturing moments | ☕ Cafe hopping to find best matcha in town |
-  
-  🏐 Playing volleyball | 💪 Hitting the gym 🧗‍♀️| 👨‍👩‍👧‍👦 Quality time with family & friends
-  
+ 
 </div>
 
 ## 🤝 Let's Connect!
