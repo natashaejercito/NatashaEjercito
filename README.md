@@ -1,71 +1,24 @@
-# 👋 Hey! My name is Natasha
+### Hi there! <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnhwZjg0M3hzOW5laTlrbDRxdmF0bHl4NWtyYnhzOGN1ZXd4eWszdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/jt8mEC6Kffbwbv2tNH/giphy.gif" width="100"/>
 
-<!-- <div align="center">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3picW9pZ2h4dHRqOWxrNGY1Yml1dW9jb2lqdmI4dHprY290a3NpbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oKIPnAiaMCws8nOsE/giphy.gif" width="200"/>
-<!-- </div>
+I'm [**Natasha**](https://natashaejercito.vercel.app/), a software developer, student, and creative designer. 
 
-<div align="center"> --> 
-  
-  **Computer Programming and Analysis Student @ Seneca Polytechnic** 🎓
-  
-  
-</div>
+I am currently pursuing an Ontario College Advanced Diploma in Computer Programming and Analysis at Seneca Polytechnic. As a 2nd year student, I have obtained knowledge of the following:
+- Programming languages (JavaScript, HTML/CSS, C++, Python)
+- System Methodologies
+- Client and Server Side Development
+- Database Management
 
----
+When I am not doing any *programming*, you'll definitely find me playing volleyball, running, attending sweat & tonic classes, rock climbing, doomscrolling
 
-## 🚀 About Me
+#### Follow me on GitHub and LinkedIn to stay updated with my career journey ˚.🎀༘⋆
 
-```typescript
-const natasha = {
-    location: "Toronto, Canada",
-    education: "Computer Programming & Analysis",
-    sheLikes: "Developing applications", "Learning new technologies", "The tech community",
-    interests: ["Software Development", "AI/Machine Learning", "Art/Designs", "Music", "Photography"],
-    hobbies: ["Volleyball 🏐", "watching films/movies 💗", "Cafe hopping 🍵", "Pilates 💪"],
-};
-```
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=NatashaEjercito&label=Profile%20views&color=0e75b6&style=flat" alt="NatashaEjercito" /> </p>
 
-## 🛠️ Tech Stack & Tools
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/natashaejercito/)
+[![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:natasha.ejercito@outlook.com)
+          
+          
+          
 
-### Languages
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=cpp,js,html,css,python" />
-</div>
 
-### Frameworks & Libraries
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=react,nodejs,express" />
-</div>
-
-### Design & Development Tools
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=figma,git,mongodb,postgresql,vscode" />
-</div>
- 
-</div>
-
-## 🤝 Let's Connect!
-
-<div align="center">
-  
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/natashaejercito/)
-  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:natasha.ejercito@outlook.com)
-  <!--[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](#)
-  [![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](#)-->
-  
-</div>
-
----
-
-<div align="center">
-  
-  **💬 Ask me about:** Tech, Student Life, or anything Studio Ghibli film! 
-  
-  **💅 Her opinion:** I believe the best code is like a good film - it tells a story effortlessly.
-  
-  <img src="https://komarev.com/ghpvc/?username=natashaejercito&color=blueviolet&style=flat-square&label=Profile+Views" />
-  
-</div>
-
----
 
