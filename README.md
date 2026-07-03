@@ -1,6 +1,6 @@
 ### Hi there! <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnhwZjg0M3hzOW5laTlrbDRxdmF0bHl4NWtyYnhzOGN1ZXd4eWszdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/jt8mEC6Kffbwbv2tNH/giphy.gif" width="100"/>
 
-I'm [**Natasha**](https://natashaejercito.vercel.app/), a software developer, student, and creative designer. 
+I'm [**Natasha**](https://natasha-portfolio02.vercel.app/), a software developer, student, and creative designer. 
 
 I am currently pursuing an Ontario College Advanced Diploma in Computer Programming and Analysis at Seneca Polytechnic. As a 2nd year student, I have obtained knowledge of the following:
 - Programming languages (JavaScript, HTML/CSS, C++, Python)
