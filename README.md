@@ -2,8 +2,8 @@
 
 I'm [**Natasha**](https://natasha-portfolio02.vercel.app/), a software developer, student, and creative designer. 
 
-I am currently pursuing an Ontario College Advanced Diploma in Computer Programming and Analysis at Seneca Polytechnic. As a 2nd year student, I have obtained knowledge of the following:
-- Programming languages (JavaScript, HTML/CSS, C++, Python)
+I am currently pursuing an Ontario College Advanced Diploma in Computer Programming and Analysis at Seneca Polytechnic. As a 3rd year student, I have obtained knowledge of the following:
+- Programming languages (JavaScript, HTML/CSS, C++, Python, PHP, Typescript)
 - System Methodologies
 - Client and Server Side Development
 - Database Management
